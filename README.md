@@ -1,4 +1,4 @@
-# 大標題 我的網站名字是chongshan-xu-github.io
+# 大標題 我的網站名字是chongshan-xu.github.io
 
 ## 介紹我是誰
 我是銘傳大學資傳系的學生
