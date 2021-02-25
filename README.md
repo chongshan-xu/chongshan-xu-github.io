@@ -6,3 +6,17 @@
 我喜歡玩GAY
 
 ![基友](https://cdn2.ettoday.net/images/5049/d5049007.jpg)
+
+#include <stdio.h>
+int main(
+{
+  printf(安安");
+}
+
+void setup(){
+size(500,500)
+}
+void draw(){
+background(255);
+ellipse(200,200, 30,30);
+}
