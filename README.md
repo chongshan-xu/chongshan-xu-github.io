@@ -4,4 +4,4 @@
 我是銘傳大學資傳系的學生
 ## 介紹我的興趣
 我喜歡玩GAY
-![基友] (https://cdn2.ettoday.net/images/5049/d5049007.jpg)
+![基友] (https://lh3.googleusercontent.com/proxy/-nWW0TjjtFEA1PJMXG6ShDzjCenPuUf22KohUgoJXnNKYGOIZOPa7HNvcA9Oe57sv4FOkBfd6_WRDkFaewMF9Q2q6bMFVFdwLtXtN0SpSLNjQa6HYwu07Q)
