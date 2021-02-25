@@ -7,6 +7,7 @@
 
 ![基友](https://cdn2.ettoday.net/images/5049/d5049007.jpg)
 
+```c
 #include <stdio.h>
 int main(
 {
@@ -20,3 +21,4 @@ void draw(){
 background(255);
 ellipse(200,200, 30,30);
 }
+```
